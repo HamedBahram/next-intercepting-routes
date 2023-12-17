@@ -5,7 +5,7 @@ import photos from '@/lib/photos'
 
 export default function Photos() {
   return (
-    <section className='py-24'>
+    <section className='mt-12'>
       <div className='container'>
         <h1 className='font-serif text-3xl font-bold text-gray-700'>Photos</h1>
 
